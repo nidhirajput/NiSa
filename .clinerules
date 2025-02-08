@@ -1,0 +1,14 @@
+#Powershell Rules
+- Do NOT combine any commands other than pip installs.
+- Send each command independently without using &&.
+#Follow Best Practices
+- Use virtual environments.
+- Use a .env.
+- I already created a .env with a Google Gemini API Key for you to use.
+#Styling
+- Use Tailwind for styling to make our project look professional.
+- Use the Tailwind CDN. Do not compile it locally.
+
+#Prompt
+- Make a single page python flask webapp that has a chat interface.
+- We'll connect the chat interface to Google Gemini's latest model.
